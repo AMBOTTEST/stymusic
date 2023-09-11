@@ -81,7 +81,7 @@ def stream_markup_timer(_, chat_id, played, dur):
             ),
             InlineKeyboardButton(
 
-                text="ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘ 💌", url=f"https://t.me/+jLfuucjsi8kzMzE1"
+                text="ꜱᴀᴛʏᴀᴍ ꜱᴜᴘᴘᴏʀᴛ 💌", url=f"https://t.me/satyam_music"
              ),
           ],
        
@@ -111,7 +111,7 @@ def stream_markup(_, chat_id):
             ),
             InlineKeyboardButton(
 
-                text="ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘ 💌", url=f"https://t.me/+jLfuucjsi8kzMzE1"
+                text="ꜱᴀᴛʏᴀᴍ ꜱᴜᴘᴘᴏʀᴛ 💌", url=f"https://t.me/satyam_music"
              ),
           ],
          
@@ -198,7 +198,7 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
             ),
             InlineKeyboardButton(
 
-                text="ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘ 💌", url=f"https://t.me/+jLfuucjsi8kzMzE1"
+                text="ꜱᴀᴛʏᴀᴍ ꜱᴜᴘᴘᴏʀᴛ 💌", url=f"https://t.me/satyam_music"
              ),
           ],
         [
