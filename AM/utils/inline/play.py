@@ -64,7 +64,7 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="➕ ᴀᴅᴅ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
 
-                url=f"https://t.me/Shizuka_x_Music_bot?startgroup=true",
+                url=f"https://t.me/satyam_music_bot?startgroup=true",
 
             ),
           ],
@@ -75,6 +75,15 @@ def stream_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
+        [
+            InlineKeyboardButton(
+                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Mr_majnu72"
+            ),
+            InlineKeyboardButton(
+
+                text="ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘ 💌", url=f"https://t.me/+jLfuucjsi8kzMzE1"
+             ),
+          ],
        
         [
          
@@ -96,6 +105,15 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
+        [
+            InlineKeyboardButton(
+                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Mr_majnu72"
+            ),
+            InlineKeyboardButton(
+
+                text="ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘ 💌", url=f"https://t.me/+jLfuucjsi8kzMzE1"
+             ),
+          ],
          
         [
          
@@ -174,6 +192,15 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
                 callback_data=f"slider F|{query_type}|{query}|{user_id}|{channel}|{fplay}",
             ),
         ],
+        [
+            InlineKeyboardButton(
+                text=" ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Mr_majnu72"
+            ),
+            InlineKeyboardButton(
+
+                text="ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘ 💌", url=f"https://t.me/+jLfuucjsi8kzMzE1"
+             ),
+          ],
         [
          
             InlineKeyboardButton(
