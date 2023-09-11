@@ -76,7 +76,7 @@ def aq_markup(_, chat_id):
 
                 text="➕ ᴀᴅᴅ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
 
-                url=f"https://t.me/Sophia_x_MusicBot?startgroup=true",
+                url=f"https://t.me/satyam_music_bot?startgroup=true",
 
             ),
           ],
