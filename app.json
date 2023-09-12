@@ -24,7 +24,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6605147503:AAEfblrSBOhe3joaX0PFccLNNt3bLr9Hxpg",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6204761408",
+        "value": "5097836954",
         "required": true
       },
       "STRING_SESSION": {
