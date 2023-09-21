@@ -81,7 +81,7 @@ def stream_markup_timer(_, chat_id, played, dur):
             ),
             InlineKeyboardButton(
 
-                text="ꜱᴀᴛʏᴀᴍ ꜱᴜᴘᴘᴏʀᴛ 💌", url=f"https://t.me/satyam_music"
+                text="𝘍𝘳𝘪𝘦𝘯𝘥𝘴𝘚𝘩𝘪𝘱𝘊𝘪𝘳𝘤𝘭𝘦 💌", url=f"https://t.me/+eSTzpugepEMwNDBl"
              ),
           ],
        
@@ -111,7 +111,7 @@ def stream_markup(_, chat_id):
             ),
             InlineKeyboardButton(
 
-                text="ꜱᴀᴛʏᴀᴍ ꜱᴜᴘᴘᴏʀᴛ 💌", url=f"https://t.me/satyam_music"
+                text="𝘍𝘳𝘪𝘦𝘯𝘥𝘴𝘚𝘩𝘪𝘱𝘊𝘪𝘳𝘤𝘭𝘦 💌", url=f"https://t.me/+eSTzpugepEMwNDBl"
              ),
           ],
          
@@ -198,7 +198,7 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
             ),
             InlineKeyboardButton(
 
-                text="ꜱᴀᴛʏᴀᴍ ꜱᴜᴘᴘᴏʀᴛ 💌", url=f"https://t.me/satyam_music"
+                text="͟͟𝘍𝘳𝘪𝘦𝘯𝘥𝘴𝘚𝘩𝘪𝘱𝘊𝘪𝘳𝘤𝘭𝘦 💌", url=f"https://t.me/+eSTzpugepEMwNDBl"
              ),
           ],
         [
